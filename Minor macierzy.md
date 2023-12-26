@@ -1,0 +1,4 @@
+- Minor stopnia n macierzy $A \in M_{k\times l}$ to wyznacznik macierzy $n\times n$ powstałej przez skreślenie k-n wierszy i l-n kolumn
+- macierz może mieć wiele minorów stopnia n (można skreślać różne wiersze i kolumny)
+- największy możliwy stopień minora to $min\{k,l\}$
+- 

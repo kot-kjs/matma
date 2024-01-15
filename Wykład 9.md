@@ -1,0 +1,15 @@
+[[Wykłady z analizy]]
+
+![[Pasted image 20240112093429.png]]
+![[Pasted image 20240112093434.png]]
+![[Pasted image 20240112093441.png]]
+![[Pasted image 20240112093458.png]]
+![[Pasted image 20240112093504.png]]
+![[Pasted image 20240112093509.png]]
+##### \\/ wartości średnie
+![[Pasted image 20240112093559.png]]
+![[Pasted image 20240112093618.png]]
+![[Pasted image 20240112093629.png]]
+![[Pasted image 20240112093635.png]]
+![[Pasted image 20240112093640.png]]
+![[Pasted image 20240112093652.png]]

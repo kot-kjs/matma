@@ -1,3 +1,4 @@
+[[Styczna i normalna]]
 #### Co to jest pochodna?
 -> trapez - pochodne - vid1
 ![[Pasted image 20231225042727.png|400]]
@@ -6,3 +7,4 @@
 - __Interpretacja geometryczna__ to styczna do wykresu funkcji, więc im bardziej nachylona do pionu tym szybciej funkcja się zmienia, a jeśli jest pozioma to funkcja jest stała.
 
 
+[[Liczenie pochodnych]]

@@ -1,0 +1,16 @@
+[[Wykłady z analizy]]
+
+
+![[Pasted image 20240112092936.png]]
+![[Pasted image 20240112092950.png]]
+![[Pasted image 20240112093000.png]]
+![[Pasted image 20240112093008.png]]
+![[Pasted image 20240112093014.png]]
+![[Pasted image 20240112093019.png]]
+![[Pasted image 20240112093028.png]]
+![[Pasted image 20240112093033.png]]
+![[Pasted image 20240112093037.png]]
+![[Pasted image 20240112093100.png]]
+![[Pasted image 20240112093106.png]]
+![[Pasted image 20240112093111.png]]
+![[Pasted image 20240112093117.png]]

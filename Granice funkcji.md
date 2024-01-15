@@ -1,0 +1,2 @@
+[[Wzory]]
+[[Rozwiązywanie]]

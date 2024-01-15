@@ -1,0 +1,1 @@
+![[7_materiały do ćwiczeń_przebieg zmienności funkcji_AiR.pdf]]

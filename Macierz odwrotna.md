@@ -8,6 +8,7 @@
 [[Minor macierzy]]
 [[Rząd macierzy]]
 
+
 #### Sposób I (gorszy bo nie zawsze można) - znajdowanie macierzy odwrotnej przy pomocy macierzy dopełnień algebraicznych
 
 ![[Pasted image 20231215190447.png]]
@@ -25,6 +26,9 @@ gdzie:
 ##### Sprawdzenie:
 - pomnożyć $A^{-1}\times A$       -> powinno wyjść $I$
 
+
+
 #### Sposób II - metoda Gaussa - Jordana
 ![[Pasted image 20231215221210.png]]
 - Do macierzy A doklejamy macierz jedynkową i przeprowadzamy procesy Gaussa na wierszach tak, żeby po lewej stronie wyszła macierz jedynkowa. Ta doklejona będzie wtedy macierzą odwrotną do A
+

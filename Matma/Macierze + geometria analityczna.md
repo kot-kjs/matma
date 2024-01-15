@@ -1,0 +1,34 @@
+### Do nauki:
+- etrapez
+	- [ ] 8h filmy geo anal.
+	- [ ] 4h filmy macierze
+	- uwzględnić trza jeszcze czas na zadania + research poza tymi filmami, zaś estymat ~30 h -> 6h/dzień
+- Macierze:
+	- [ ] [[Układ równań|rozwiązywanie układów równań liniowych]]
+	- [x] [[Wyznacznik macierzy]]
+	- [x] [[Rząd macierzy]]
+	- [ ] [[ działania na macierzach]]
+	- [ ] [[Macierz odwrotna]]
+	- [x] przekształcenia Gaussa
+	- [ ] Laplace
+	- [x] Sarius
+	- [ ] metoda schodków (te dzielenie na mniejsze macierze na przekątnej)
+	- [ ] rodzaje macierzy
+	- [ ] u
+- Geometria analityczna:
+  - [ ] [[wektory]]
+  - [ ] [[Płaszczyzna]]
+  - [ ] równania prostych
+  - [ ] równania płaszczyzn
+  - [ ] rzutowanie punktu na prostą
+  - [ ] odległość punktu od prostej
+  - [ ] odległość punktu od płaszczyzny
+  - [ ] iloczyn wektorowy
+  - [ ] iloczyn mieszany i zastosowania
+  - [ ] iloczyn skalarny
+  - [ ] liczenie pól figur
+  - [ ] szukanie prostej prostopadłej
+  - [ ] własności prostych, wektorów i płaszczyzn (kiedy równoległe, prostopadłe, skośne etc)
+  - [ ] wyznaczanie równania płaszczyzny mając jakieś dane
+  - [ ] rzutowanie prostej na płaszczyznę
+  

@@ -1,0 +1,1 @@
+[[Dowolny układ sił z tarciem]]
